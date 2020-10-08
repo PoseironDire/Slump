@@ -1,0 +1,13 @@
+C:\Users\edvin.tsygankov\Documents\Programmering\Slump\Trested\bin\Debug\netcoreapp3.1\Trested.exe
+C:\Users\edvin.tsygankov\Documents\Programmering\Slump\Trested\bin\Debug\netcoreapp3.1\Trested.deps.json
+C:\Users\edvin.tsygankov\Documents\Programmering\Slump\Trested\bin\Debug\netcoreapp3.1\Trested.runtimeconfig.json
+C:\Users\edvin.tsygankov\Documents\Programmering\Slump\Trested\bin\Debug\netcoreapp3.1\Trested.runtimeconfig.dev.json
+C:\Users\edvin.tsygankov\Documents\Programmering\Slump\Trested\bin\Debug\netcoreapp3.1\Trested.dll
+C:\Users\edvin.tsygankov\Documents\Programmering\Slump\Trested\bin\Debug\netcoreapp3.1\Trested.pdb
+C:\Users\edvin.tsygankov\Documents\Programmering\Slump\Trested\obj\Debug\netcoreapp3.1\Trested.csprojAssemblyReference.cache
+C:\Users\edvin.tsygankov\Documents\Programmering\Slump\Trested\obj\Debug\netcoreapp3.1\Trested.AssemblyInfoInputs.cache
+C:\Users\edvin.tsygankov\Documents\Programmering\Slump\Trested\obj\Debug\netcoreapp3.1\Trested.AssemblyInfo.cs
+C:\Users\edvin.tsygankov\Documents\Programmering\Slump\Trested\obj\Debug\netcoreapp3.1\Trested.csproj.CoreCompileInputs.cache
+C:\Users\edvin.tsygankov\Documents\Programmering\Slump\Trested\obj\Debug\netcoreapp3.1\Trested.dll
+C:\Users\edvin.tsygankov\Documents\Programmering\Slump\Trested\obj\Debug\netcoreapp3.1\Trested.pdb
+C:\Users\edvin.tsygankov\Documents\Programmering\Slump\Trested\obj\Debug\netcoreapp3.1\Trested.genruntimeconfig.cache
